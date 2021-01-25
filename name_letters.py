@@ -10,3 +10,5 @@ print(full_name)
 
 full_name = full_name.title()
 print(full_name)
+
+print(f'Witaj, {full_name}!')
